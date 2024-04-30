@@ -23,6 +23,7 @@ Create Virtual Environment (Optional)
     python3 -m venv env
 
 Activate Virtual Environment (Optional)
+
   Windows: 
 
     .\env\Scripts\activate
