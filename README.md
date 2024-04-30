@@ -10,19 +10,19 @@ for notes on deploying the project on a live system.
 
 ### Installing
 
-Clone Repository
+1. Clone Repository
 
     git clone https://github.com/bal-19/daftarperusahaan-rest-api.git
 
-Navigate to Project Directory
+2. Navigate to Project Directory
 
     cd daftarperusahaan-rest-api
 
-Create Virtual Environment (Optional)
+3. Create Virtual Environment (Optional)
 
     python3 -m venv env
 
-Activate Virtual Environment (Optional)
+4. Activate Virtual Environment (Optional)
 
   Windows: 
 
@@ -32,15 +32,15 @@ Activate Virtual Environment (Optional)
 
     source env/bin/activate
 
-Install Dependencies
+5. Install Dependencies
 
     pip install -r requirements.txt
 
-Run the FastAPI Server
+6. Run the FastAPI Server
 
     uvicorn main:app --reload
 
-Access the Api
+7. Access the Api
 
     http://127.0.0.1:8000/docs    
 
