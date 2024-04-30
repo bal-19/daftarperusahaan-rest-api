@@ -1,4 +1,4 @@
-# Project Title
+# Daftarperusahaan Rest API
 
 This project is an implementation of a RESTful API for the website daftarperusahaan.com. The API allows users to access data of companies listed on the daftarperusahaan.com website through a clear and well-documented interface. By utilizing this API, developers can easily integrate company information into their own applications, view details, and access up-to-date information about various companies.
 
